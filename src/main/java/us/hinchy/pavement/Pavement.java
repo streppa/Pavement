@@ -14,7 +14,7 @@
    limitations under the License.
  */
 
-package us.hinchy.Pavement;
+package us.hinchy.pavement;
 
 import java.util.logging.Logger;
 

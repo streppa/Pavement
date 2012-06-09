@@ -1,4 +1,4 @@
-package us.hinchy.Pavement;
+package us.hinchy.pavement;
 
 import org.bukkit.plugin.Plugin;
 import org.getspout.spoutapi.block.design.GenericCubeBlockDesign;
